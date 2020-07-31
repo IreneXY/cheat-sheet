@@ -6,3 +6,6 @@
 
 ## Kotlin
 1. Kotlin collection cheat sheet: http://jussi.hallila.com/Kollections/
+
+## Useful Views
+1. 使用RecyclerView，自定义LayoutManager实现旋转木马相册效果: https://github.com/ChenLittlePing/RecyclerCoverFlow
