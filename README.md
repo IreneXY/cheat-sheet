@@ -1,5 +1,14 @@
 # Cheat Sheet
 
+## Git
+1. Check git settings for your repo:
+```
+cd yourRepoLocation
+cat .git/config
+```
+Set your username: `git config user.name "FIRST_NAME LAST_NAME"`
+
+Set your email address:`git config user.email "MY_NAME@example.com"`
 ## Android
 1. 关于proguard的使用总结: https://blog.csdn.net/Yoryky/article/details/78718073
 2. 为方法数超过 64K 的应用启用 MultiDex: https://developer.android.com/studio/build/multidex?hl=zh-cn
